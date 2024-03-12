@@ -1,7 +1,10 @@
 #include <unistd.h>
 int main(void)
 {
-printf("aaa\n");
+
+printf("1aqa\n");
+printf("2qq\n");
+
 return 0;
 }
 
