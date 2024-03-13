@@ -53,3 +53,9 @@
   1. Apex
   2. Pubg
 3. Windows网络编程
+
+## 超链接
+[bilibili弹幕网](https://www.bilibili.com "点击去世")
+## 插入图片
+![桌面截图](C://Users//cui88//Desktop//222.jpg "点击复活")
+  本地图片无法被github识别与显示， 需要将本地图片上传到某个图床网站， 生成对应的URL网络图片地址， 而后可以在github中显示与使用
