@@ -59,3 +59,25 @@
 ## 插入图片
 ![桌面截图](C://Users//cui88//Desktop//222.jpg "点击复活")
   本地图片无法被github识别与显示， 需要将本地图片上传到某个图床网站， 生成对应的URL网络图片地址， 而后可以在github中显示与使用
+
+## 插入代码片段
+
+```c
+ #include <stdio.h>
+ int main(void)
+ {
+  printf("version 1.0\n");
+  return 0;
+ }
+ 
+```
+```cpp
+ #include <iostream>
+```
+```bash
+ netstate -apn | grep "8080"
+
+ echo output
+
+ cd /home/colin/testing/
+```
